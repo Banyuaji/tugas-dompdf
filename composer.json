@@ -1,0 +1,15 @@
+{
+    "name": "starbhak/belajar-composer",
+    "description": "Untuk Kebutuhan Belajar Composer",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Adhi satria banyuaji",
+            "email": "thethex24@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5"
+    }
+}
